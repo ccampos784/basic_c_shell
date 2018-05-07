@@ -1,0 +1,34 @@
+Basic UNIX Shell
+By Christopher Campos
+
+General info: This program was created for a school assignment in which we had to inplement a very basic UNIX shell in the C programming language. The list of features is as follows:
+    - Interactive mode (default when no arguments are passed)
+    - Batch mode (batch file passed as single argument)
+    - Redirection of STDOUT to a file (use > or >> operator)
+    - Run a process in background (use & operator)
+    - 'barrier' command - To wait for background processes to complete (similar to wait)
+    
+To terminate the program use the 'exit' or 'quit command.
+
+Licensing info:
+MIT License
+
+Copyright (c) 2018 Christopher Campos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
